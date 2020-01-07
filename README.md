@@ -1,3 +1,11 @@
+Deployed on firebase:
+https://micro-blogging-9e26c.firebaseapp.com/
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
